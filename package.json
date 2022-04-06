@@ -9,11 +9,11 @@
     "build": "tsc",
     "deploy": "npm publish"
   },
-  "author": "Dale Nguyen",
+  "author": "Mitesh Chavda",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "git+https://github.com/mitesh-chavda-wings/file-droppa-mitesh.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@mitesh/file-droppa-mitesh"
