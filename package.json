@@ -9,7 +9,7 @@
     "build": "tsc",
     "deploy": "npm publish"
   },
-  "author": "Mitesh Chavda",
+  "author": "Mitesh Chavda Wings",
   "license": "ISC",
   "repository": {
     "type": "git",
