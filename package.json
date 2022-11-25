@@ -1,29 +1,22 @@
 {
   "name": "file-droppa-mitesh",
   "version": "1.0.0",
-  "description": "TypeScript boilerplate for NPM or Github Packages",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-    "test": "mocha --timeout 60000 --exit -r ts-node/register test/**/*.spec.ts",
-    "build": "tsc",
-    "deploy": "npm publish"
+  "description": "file-droppa-mitesh this library to used in angular project.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
   },
-  "author": "Mitesh Chavda",
-  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mitesh-chavda-wings/file-droppa-mitesh.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mitesh/file-droppa-mitesh"
-  },
+  "author": "mitesh",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh/issues"
   },
-  "homepage": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh#readme",
-  "directories": {
-    "test": "test"
-  },
-  "keywords": []
+  "homepage": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh#readme"
 }
