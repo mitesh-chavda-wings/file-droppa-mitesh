@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "file-droppa-mitesh",
   "version": "1.0.0",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -17,5 +17,13 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@mitesh/file-droppa-mitesh"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh/issues"
+  },
+  "homepage": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
