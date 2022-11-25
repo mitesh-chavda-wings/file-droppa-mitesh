@@ -1,15 +1,15 @@
-## Angular2 (ng2) Files droppable area including list of files which could be managed before upload
+## Angular2 custom library
 
 [![npm version](https://badge.fury.io/js/file-droppa.svg)](https://badge.fury.io/js/file-droppa)
 
 #### Installation:
 
 ```
-npm install --save file-droppa
+npm install --save file-droppa-mitesh
 ```
 
 #### Demo:
-![Screenshot](https://raw.githubusercontent.com/ptkach/fileDroppa/master/demo_fileDroppa.gif)
+![Screenshot](https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8xNWFhYWM2NDI5ZDdlNDc4YWExZDU1NmRhOGNiMGViOD9zaXplPTUwJmRlZmF1bHQ9cmV0cm8ifQ.elTcrspmLL4cfEZlXUMXdHn7XHStfUZbgHnNfXHQCBI)
 
 #### Usage:
 
