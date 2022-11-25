@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh/issues"
   },
+  "publishConfig": {
+     "@miteshc:registry": "https://npm.pkg.github.com"
+   },
   "homepage": "https://github.com/mitesh-chavda-wings/file-droppa-mitesh#readme"
 }
